@@ -1,7 +1,7 @@
 {
- "version": 24,
+ "version": 25,
  "updated": "2026-10-26",
- "note": "Неделя переставлена: зал Вт, Чт, Пт, Вс",
+ "note": "Анимации упражнений и схема мышц",
  "targets": {
   "kcal": 3000,
   "p": 120,
@@ -11735,6 +11735,1015 @@
     "После всплытия вари 3–5 минут (смотри пачку).",
     "Подавай со сметаной."
    ]
+  }
+ },
+ "media": {
+  "Бабочка (пек-дек)": {
+   "img": [
+    "Butterfly"
+   ],
+   "p": [
+    "chest"
+   ],
+   "s": []
+  },
+  "Бицепс на скамье Скотта": {
+   "img": [
+    "Preacher_Curl"
+   ],
+   "p": [
+    "biceps"
+   ],
+   "s": []
+  },
+  "Сгибания на скамье Скотта": {
+   "img": [
+    "Preacher_Curl"
+   ],
+   "p": [
+    "biceps"
+   ],
+   "s": []
+  },
+  "Болгарские выпады": {
+   "img": [
+    "Split_Squat_with_Dumbbells"
+   ],
+   "p": [
+    "quadriceps",
+    "glutes"
+   ],
+   "s": [
+    "hamstrings"
+   ]
+  },
+  "Болгарские выпады (рюкзак в руках)": {
+   "img": [
+    "Split_Squat_with_Dumbbells"
+   ],
+   "p": [
+    "quadriceps",
+    "glutes"
+   ],
+   "s": [
+    "hamstrings"
+   ]
+  },
+  "Болгарские выпады с гантелями": {
+   "img": [
+    "Split_Squat_with_Dumbbells"
+   ],
+   "p": [
+    "quadriceps",
+    "glutes"
+   ],
+   "s": [
+    "hamstrings"
+   ]
+  },
+  "Бёрпи": {
+   "img": [
+    "Mountain_Climbers"
+   ],
+   "p": [
+    "quadriceps",
+    "chest"
+   ],
+   "s": [
+    "shoulders",
+    "abdominals",
+    "calves"
+   ]
+  },
+  "Выпад с опущенным коленом (сгибатели бедра)": {
+   "img": [
+    "Kneeling_Hip_Flexor"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": []
+  },
+  "Выпады в Смите": {
+   "img": [
+    "Smith_Single-Leg_Split_Squat"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "glutes",
+    "hamstrings"
+   ]
+  },
+  "Выпады назад с гантелями": {
+   "img": [
+    "Dumbbell_Rear_Lunge"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "glutes",
+    "hamstrings"
+   ]
+  },
+  "Выпады с гантелями": {
+   "img": [
+    "Dumbbell_Lunges"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "glutes",
+    "hamstrings"
+   ]
+  },
+  "Выпады с гантелями в ходьбе": {
+   "img": [
+    "Dumbbell_Lunges"
+   ],
+   "p": [
+    "quadriceps",
+    "glutes"
+   ],
+   "s": [
+    "hamstrings",
+    "calves"
+   ]
+  },
+  "Гакк-присед": {
+   "img": [
+    "Hack_Squat"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "glutes",
+    "hamstrings"
+   ]
+  },
+  "Гиперэкстензия": {
+   "img": [
+    "Hyperextensions_Back_Extensions"
+   ],
+   "p": [
+    "lower back"
+   ],
+   "s": [
+    "glutes",
+    "hamstrings"
+   ]
+  },
+  "Гоблет-присед с гантелью": {
+   "img": [
+    "Goblet_Squat"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders"
+   ]
+  },
+  "Жим в наклонном тренажёре сидя (верх груди)": {
+   "img": [
+    "Leverage_Incline_Chest_Press"
+   ],
+   "p": [
+    "chest"
+   ],
+   "s": [
+    "shoulders",
+    "triceps"
+   ]
+  },
+  "Жим в рычажном тренажёре сидя": {
+   "img": [
+    "Leverage_Chest_Press"
+   ],
+   "p": [
+    "chest"
+   ],
+   "s": [
+    "shoulders",
+    "triceps"
+   ]
+  },
+  "Жим в тренажёре на плечи сидя": {
+   "img": [
+    "Leverage_Shoulder_Press"
+   ],
+   "p": [
+    "shoulders"
+   ],
+   "s": [
+    "triceps"
+   ]
+  },
+  "Жим в тренажёре от груди сидя": {
+   "img": [
+    "Leverage_Chest_Press"
+   ],
+   "p": [
+    "chest"
+   ],
+   "s": [
+    "shoulders",
+    "triceps"
+   ]
+  },
+  "Жим в тренажёре сидя (грудь)": {
+   "img": [
+    "Leverage_Chest_Press"
+   ],
+   "p": [
+    "chest"
+   ],
+   "s": [
+    "shoulders",
+    "triceps"
+   ]
+  },
+  "Жим ногами": {
+   "img": [
+    "Leg_Press"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "glutes",
+    "hamstrings"
+   ]
+  },
+  "Зашагивания на скамью": {
+   "img": [
+    "Dumbbell_Step_Ups"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "glutes",
+    "hamstrings"
+   ]
+  },
+  "Икры сидя": {
+   "img": [
+    "Seated_Calf_Raise"
+   ],
+   "p": [
+    "calves"
+   ],
+   "s": []
+  },
+  "Икры сидя в тренажёре": {
+   "img": [
+    "Seated_Calf_Raise"
+   ],
+   "p": [
+    "calves"
+   ],
+   "s": []
+  },
+  "Квадрицепс стоя": {
+   "img": [
+    "Quad_Stretch"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": []
+  },
+  "Махи в наклоне": {
+   "img": [
+    "Seated_Bent-Over_Rear_Delt_Raise"
+   ],
+   "p": [
+    "rear delts"
+   ],
+   "s": [
+    "traps",
+    "middle back"
+   ]
+  },
+  "Махи гантелями в наклоне": {
+   "img": [
+    "Seated_Bent-Over_Rear_Delt_Raise"
+   ],
+   "p": [
+    "rear delts"
+   ],
+   "s": [
+    "traps",
+    "middle back"
+   ]
+  },
+  "Махи гантелями в стороны": {
+   "img": [
+    "Side_Lateral_Raise"
+   ],
+   "p": [
+    "shoulders"
+   ],
+   "s": []
+  },
+  "Махи гантелями в стороны сидя": {
+   "img": [
+    "Seated_Side_Lateral_Raise"
+   ],
+   "p": [
+    "shoulders"
+   ],
+   "s": []
+  },
+  "Молотки": {
+   "img": [
+    "Hammer_Curls"
+   ],
+   "p": [
+    "biceps"
+   ],
+   "s": []
+  },
+  "Молотки с гантелями": {
+   "img": [
+    "Hammer_Curls"
+   ],
+   "p": [
+    "biceps"
+   ],
+   "s": []
+  },
+  "Наклон к прямым ногам сидя": {
+   "img": [
+    "Seated_Floor_Hamstring_Stretch"
+   ],
+   "p": [
+    "hamstrings"
+   ],
+   "s": [
+    "calves"
+   ]
+  },
+  "Обратная бабочка": {
+   "img": [
+    "Reverse_Machine_Flyes"
+   ],
+   "p": [
+    "rear delts"
+   ],
+   "s": [
+    "traps",
+    "middle back"
+   ]
+  },
+  "Обратные разведения в тренажёре": {
+   "img": [
+    "Reverse_Machine_Flyes"
+   ],
+   "p": [
+    "rear delts"
+   ],
+   "s": [
+    "traps",
+    "middle back"
+   ]
+  },
+  "Отжимания на брусьях": {
+   "img": [
+    "Dips_-_Chest_Version"
+   ],
+   "p": [
+    "chest"
+   ],
+   "s": [
+    "shoulders",
+    "triceps"
+   ]
+  },
+  "Отжимания на брусьях или от скамейки": {
+   "img": [
+    "Bench_Dips"
+   ],
+   "p": [
+    "triceps"
+   ],
+   "s": [
+    "chest",
+    "shoulders"
+   ]
+  },
+  "Отжимания от пола": {
+   "img": [
+    "Pushups"
+   ],
+   "p": [
+    "chest"
+   ],
+   "s": [
+    "shoulders",
+    "triceps"
+   ]
+  },
+  "Отжимания с ногами на возвышении": {
+   "img": [
+    "Push-Ups_With_Feet_Elevated"
+   ],
+   "p": [
+    "chest"
+   ],
+   "s": [
+    "shoulders",
+    "triceps"
+   ]
+  },
+  "Отжимания с хлопком": {
+   "img": [
+    "Plyo_Push-up"
+   ],
+   "p": [
+    "chest"
+   ],
+   "s": [
+    "shoulders",
+    "triceps"
+   ]
+  },
+  "Пистолет с опорой": {
+   "img": [
+    "Kettlebell_Pistol_Squat"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "shoulders"
+   ]
+  },
+  "Подтягивания": {
+   "img": [
+    "Pullups"
+   ],
+   "p": [
+    "lats"
+   ],
+   "s": [
+    "biceps",
+    "middle back"
+   ]
+  },
+  "Подтягивания (медленно вниз 3 сек)": {
+   "img": [
+    "Pullups"
+   ],
+   "p": [
+    "lats"
+   ],
+   "s": [
+    "biceps",
+    "middle back"
+   ]
+  },
+  "Подтягивания обратным хватом": {
+   "img": [
+    "Chin-Up"
+   ],
+   "p": [
+    "lats"
+   ],
+   "s": [
+    "biceps",
+    "forearms",
+    "middle back"
+   ]
+  },
+  "Подтягивания, медленный негатив": {
+   "img": [
+    "Pullups"
+   ],
+   "p": [
+    "lats"
+   ],
+   "s": [
+    "biceps",
+    "middle back"
+   ]
+  },
+  "Подъём гантелей на бицепс": {
+   "img": [
+    "Dumbbell_Bicep_Curl"
+   ],
+   "p": [
+    "biceps"
+   ],
+   "s": [
+    "forearms"
+   ]
+  },
+  "Подъём ног в висе": {
+   "img": [
+    "Hanging_Leg_Raise"
+   ],
+   "p": [
+    "abdominals"
+   ],
+   "s": []
+  },
+  "Подъём штанги на бицепс": {
+   "img": [
+    "Barbell_Curl"
+   ],
+   "p": [
+    "biceps"
+   ],
+   "s": [
+    "forearms"
+   ]
+  },
+  "Подъёмы на носки со штангой": {
+   "img": [
+    "Standing_Barbell_Calf_Raise"
+   ],
+   "p": [
+    "calves"
+   ],
+   "s": []
+  },
+  "Подъёмы на носки стоя": {
+   "img": [
+    "Standing_Calf_Raises"
+   ],
+   "p": [
+    "calves"
+   ],
+   "s": []
+  },
+  "Поза бабочки": {
+   "img": [
+    "Adductor_Groin"
+   ],
+   "p": [
+    "adductors"
+   ],
+   "s": []
+  },
+  "Приседания в Смите": {
+   "img": [
+    "Smith_Machine_Squat"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+   ]
+  },
+  "Приседания со штангой": {
+   "img": [
+    "Barbell_Squat"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "glutes",
+    "hamstrings",
+    "lower back"
+   ]
+  },
+  "Прыжки на тумбу": {
+   "img": [
+    "Front_Box_Jump"
+   ],
+   "p": [
+    "hamstrings"
+   ],
+   "s": [
+    "abductors",
+    "adductors",
+    "calves",
+    "glutes",
+    "quadriceps"
+   ]
+  },
+  "Пуловер на верхнем блоке": {
+   "img": [
+    "Straight-Arm_Dumbbell_Pullover"
+   ],
+   "p": [
+    "lats"
+   ],
+   "s": [
+    "chest",
+    "triceps"
+   ]
+  },
+  "Разгибание гантели из-за головы": {
+   "img": [
+    "Dumbbell_One-Arm_Triceps_Extension"
+   ],
+   "p": [
+    "triceps"
+   ],
+   "s": []
+  },
+  "Разгибания на трицепс на блоке": {
+   "img": [
+    "Triceps_Pushdown"
+   ],
+   "p": [
+    "triceps"
+   ],
+   "s": []
+  },
+  "Разгибания на трицепс с канатом": {
+   "img": [
+    "Triceps_Pushdown_-_Rope_Attachment"
+   ],
+   "p": [
+    "triceps"
+   ],
+   "s": []
+  },
+  "Разгибания ног в тренажёре": {
+   "img": [
+    "Leg_Extensions"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": []
+  },
+  "Разгибания рук на трицепс с рукояткой": {
+   "img": [
+    "Triceps_Pushdown"
+   ],
+   "p": [
+    "triceps"
+   ],
+   "s": []
+  },
+  "Растяжка грудных у стены": {
+   "img": [
+    "Chest_And_Front_Of_Shoulder_Stretch"
+   ],
+   "p": [
+    "chest"
+   ],
+   "s": [
+    "shoulders"
+   ]
+  },
+  "Ролик для пресса": {
+   "img": [
+    "Ab_Roller"
+   ],
+   "p": [
+    "abdominals"
+   ],
+   "s": [
+    "shoulders"
+   ]
+  },
+  "Сведение рук в кроссовере": {
+   "img": [
+    "Cable_Crossover"
+   ],
+   "p": [
+    "chest"
+   ],
+   "s": [
+    "shoulders"
+   ]
+  },
+  "Сгибания гантелей на наклонной скамье": {
+   "img": [
+    "Incline_Dumbbell_Curl"
+   ],
+   "p": [
+    "biceps"
+   ],
+   "s": []
+  },
+  "Сгибания ног в тренажёре": {
+   "img": [
+    "Lying_Leg_Curls"
+   ],
+   "p": [
+    "hamstrings"
+   ],
+   "s": []
+  },
+  "Сгибания ног лёжа в тренажёре": {
+   "img": [
+    "Lying_Leg_Curls"
+   ],
+   "p": [
+    "hamstrings"
+   ],
+   "s": []
+  },
+  "Сгибания ног сидя": {
+   "img": [
+    "Seated_Leg_Curl"
+   ],
+   "p": [
+    "hamstrings"
+   ],
+   "s": []
+  },
+  "Скакалка": {
+   "img": [
+    "Rope_Jumping"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "hamstrings"
+   ]
+  },
+  "Скручивания на блоке": {
+   "img": [
+    "Cable_Crunch"
+   ],
+   "p": [
+    "abdominals"
+   ],
+   "s": []
+  },
+  "Скручивания на блоке стоя на коленях": {
+   "img": [
+    "Cable_Crunch"
+   ],
+   "p": [
+    "abdominals"
+   ],
+   "s": []
+  },
+  "Скручивания на наклонной скамье": {
+   "img": [
+    "Decline_Crunch"
+   ],
+   "p": [
+    "abdominals"
+   ],
+   "s": []
+  },
+  "Скручивания на пресс": {
+   "img": [
+    "Crunches"
+   ],
+   "p": [
+    "abdominals"
+   ],
+   "s": []
+  },
+  "Становая тяга (классическая)": {
+   "img": [
+    "Barbell_Deadlift"
+   ],
+   "p": [
+    "lower back"
+   ],
+   "s": [
+    "calves",
+    "forearms",
+    "glutes",
+    "hamstrings",
+    "lats",
+    "middle back",
+    "quadriceps",
+    "traps"
+   ]
+  },
+  "Суперсет: бицепс на блоке + трицепс на блоке": {
+   "img": [
+    "Cable_Preacher_Curl",
+    "Triceps_Pushdown"
+   ],
+   "p": [
+    "biceps",
+    "triceps"
+   ],
+   "s": [
+    "forearms"
+   ]
+  },
+  "Суперсет: махи гантелями в стороны сидя + сгибания гантелей на наклонной скамье": {
+   "img": [
+    "Seated_Side_Lateral_Raise",
+    "Incline_Dumbbell_Curl"
+   ],
+   "p": [
+    "shoulders",
+    "biceps"
+   ],
+   "s": []
+  },
+  "Суперсет: разгибания ног + сгибания ног сидя": {
+   "img": [
+    "Leg_Extensions",
+    "Seated_Leg_Curl"
+   ],
+   "p": [
+    "quadriceps",
+    "hamstrings"
+   ],
+   "s": []
+  },
+  "Тяга Т-грифа": {
+   "img": [
+    "T-Bar_Row_with_Handle"
+   ],
+   "p": [
+    "middle back"
+   ],
+   "s": [
+    "biceps",
+    "lats"
+   ]
+  },
+  "Тяга верхнего блока": {
+   "img": [
+    "Wide-Grip_Lat_Pulldown"
+   ],
+   "p": [
+    "lats"
+   ],
+   "s": [
+    "biceps",
+    "middle back",
+    "shoulders"
+   ]
+  },
+  "Тяга верхнего блока узким хватом": {
+   "img": [
+    "Close-Grip_Front_Lat_Pulldown"
+   ],
+   "p": [
+    "lats"
+   ],
+   "s": [
+    "biceps",
+    "middle back",
+    "shoulders"
+   ]
+  },
+  "Тяга верхнего блока широким хватом": {
+   "img": [
+    "Wide-Grip_Lat_Pulldown"
+   ],
+   "p": [
+    "lats"
+   ],
+   "s": [
+    "biceps",
+    "middle back",
+    "shoulders"
+   ]
+  },
+  "Тяга гантели в наклоне": {
+   "img": [
+    "One-Arm_Dumbbell_Row"
+   ],
+   "p": [
+    "middle back"
+   ],
+   "s": [
+    "biceps",
+    "lats",
+    "shoulders"
+   ]
+  },
+  "Тяга гантели одной рукой": {
+   "img": [
+    "One-Arm_Dumbbell_Row"
+   ],
+   "p": [
+    "middle back"
+   ],
+   "s": [
+    "biceps",
+    "lats",
+    "shoulders"
+   ]
+  },
+  "Тяга горизонтального блока": {
+   "img": [
+    "Seated_Cable_Rows"
+   ],
+   "p": [
+    "middle back"
+   ],
+   "s": [
+    "biceps",
+    "lats",
+    "shoulders"
+   ]
+  },
+  "Тяга каната к лицу": {
+   "img": [
+    "Face_Pull"
+   ],
+   "p": [
+    "rear delts"
+   ],
+   "s": [
+    "traps",
+    "middle back"
+   ]
+  },
+  "Тяга штанги в наклоне": {
+   "img": [
+    "Bent_Over_Barbell_Row"
+   ],
+   "p": [
+    "middle back"
+   ],
+   "s": [
+    "biceps",
+    "lats",
+    "shoulders"
+   ]
+  },
+  "Фермерская прогулка": {
+   "img": [
+    "Farmers_Walk"
+   ],
+   "p": [
+    "forearms"
+   ],
+   "s": [
+    "abdominals",
+    "glutes",
+    "hamstrings",
+    "lower back",
+    "quadriceps",
+    "traps"
+   ]
+  },
+  "Фронтальный присед": {
+   "img": [
+    "Front_Barbell_Squat"
+   ],
+   "p": [
+    "quadriceps"
+   ],
+   "s": [
+    "calves",
+    "glutes",
+    "hamstrings"
+   ]
+  },
+  "Шраги с гантелями": {
+   "img": [
+    "Dumbbell_Shrug"
+   ],
+   "p": [
+    "traps"
+   ],
+   "s": []
+  },
+  "Ягодичный мост со штангой": {
+   "img": [
+    "Barbell_Hip_Thrust"
+   ],
+   "p": [
+    "glutes"
+   ],
+   "s": [
+    "calves",
+    "hamstrings"
+   ]
+  },
+  "Растяжка широчайших (вис или наклон у опоры)": {
+   "img": [],
+   "p": [
+    "lats"
+   ],
+   "s": []
   }
  }
 }
